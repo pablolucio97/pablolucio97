@@ -6,10 +6,6 @@ Meu nome é Pablo Lúcio, sou graduando em Análise e Desenvolvimento de Sistema
 
 Muito dos meus repositórios são frutos da imaginação criativa, ideias que concebi e resolvi materializar em código.
 
-![https://github.com/pablolucio97/marvel_characters](https://media.giphy.com/media/mEKS8JJH8NM4QJ8t7g/giphy.gif)
-![https://github.com/pablolucio97/my-recipes](https://media.giphy.com/media/ZcWORLvIidxSyOmrNv/giphy.gif)
-![https://github.com/pablolucio97/math-quiz](https://media.giphy.com/media/llHvxCvNQbkDYxm5ql/giphy.gif)
-
 ### Fale comigo:
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585992681698&text=Olá!)](https://api.whatsapp.com/send?phone=5531985187963&text=Olá!)
