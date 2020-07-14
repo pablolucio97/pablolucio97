@@ -6,9 +6,9 @@ Meu nome é Pablo Lúcio, sou graduando em Análise e Desenvolvimento de Sistema
 
 Muito dos meus repositórios são frutos da imaginação criativa, ideias que concebi e resolvi materializar em código.
 
-![image](https://media.giphy.com/media/mEKS8JJH8NM4QJ8t7g/giphy.gif)
-![IMAGE](https://media.giphy.com/media/ZcWORLvIidxSyOmrNv/giphy.gif)
-![IMAGE](https://media.giphy.com/media/llHvxCvNQbkDYxm5ql/giphy.gif)
+![https://github.com/pablolucio97/marvel_characters](https://media.giphy.com/media/mEKS8JJH8NM4QJ8t7g/giphy.gif)
+![https://github.com/pablolucio97/my-recipes](https://media.giphy.com/media/ZcWORLvIidxSyOmrNv/giphy.gif)
+![https://github.com/pablolucio97/math-quiz](https://media.giphy.com/media/llHvxCvNQbkDYxm5ql/giphy.gif)
 
 ### Fale comigo:
 
