@@ -1,6 +1,6 @@
 ## Pablo Lúcio :wink: 
 
-### Seja muito bem vindo ao meu portifólio!
+### Seja muito bem-vindo ao meu portifólio!
 
 Meu nome é Pablo Lúcio, sou graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Educacional da Lapa e um curioso amante de tecnologias do ecossistema Javascript!
 
