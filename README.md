@@ -1,7 +1,7 @@
 ## Pablo Silva
 
 Don't has knowledge that doesn't is power. 
-Javascript, React, React Native and Typescript are good friends.
+
 
 [![Instagram badge](https://img.shields.io/badge/-Instagram-dc5273?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pablosilva.dev)](https://www.instagram.com/pablosilva.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-silva-76b521156)](https://www.linkedin.com/in/pablo-silva-76b521156/)
