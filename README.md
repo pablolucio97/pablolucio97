@@ -1,8 +1,11 @@
 ## Pablo Silva
 
-Olá, meu nome é Pablo e sou desenvolvedor full-stack com foco em front-end. Tenho experiência em programação web utilizando HTML, CSS, JavaScript/TypeScript e React, bem como em desenvolvimento mobile utilizando JavaScript/TypeScript, React Native e Expo. Sou apaixonado por tecnologia e adoro criar novos projetos. Aprender coisas novas diariamente é um compromisso para mim, pois acredito que é fundamental manter-me atualizado nesse campo em constante evolução.
 
-### Tecnologias
+Hello, my name is Pablo and I'm a full-stack developer with a focus on front-end. I have experience in web programming using HTML, CSS, JavaScript/TypeScript and React, as well as in mobile development using JavaScript/TypeScript, React Native and Expo. I am passionate about technology and I love creating new projects. Learning new things on a daily basis is a commitment for me, as I believe it's critical to keep up to date in this ever-evolving field.
+
+
+
+### Technologies
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
@@ -18,7 +21,7 @@ Olá, meu nome é Pablo e sou desenvolvedor full-stack com foco em front-end. Te
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 
-### Contato
+### Contact
 
 [![Instagram badge](https://img.shields.io/badge/-Instagram-dc5273?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pablosilva.dev)](https://www.instagram.com/pablosilva.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-silva-76b521156)](https://www.linkedin.com/in/pablo-silva-76b521156/)
