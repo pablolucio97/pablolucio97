@@ -3,8 +3,6 @@
 
 Hello, my name is Pablo and I'm a full-stack developer with a focus on front-end. I have experience in web programming using HTML, CSS, JavaScript/TypeScript and React, as well as in mobile development using JavaScript/TypeScript, React Native and Expo. I am passionate about technology and I love creating new projects. Learning new things on a daily basis is a commitment for me, as I believe it's critical to keep up to date in this ever-evolving field.
 
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablolucio97&show_icons=true&theme=radical)
-
 
 ### Technologies
 
